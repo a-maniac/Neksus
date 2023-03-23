@@ -6,7 +6,10 @@ Hello this is a test file
 
 
 <snapRepo>
-  <id>nexus</id>
+  <id>snapshot</id>
+<url>${snapurl}</url>
+<layout>default</layout>
+<uniqueVersion>false</uniqueVersion>
   <name>Snapshot release</name>
 </snapRepo>
 
