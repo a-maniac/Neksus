@@ -5,8 +5,8 @@ Hello this is a test file
 <snap> this is to be removed </snap>
 
 
-<snapRepo>	
-<id>snapshot</id>
+<snapRepo>
+	<id>snapshot</id>
 	<url>${snapurl}</url>
 	<layout>default</layout>
 	<uniqueVersion>false</uniqueVersion>
