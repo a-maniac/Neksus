@@ -2,7 +2,7 @@ Hello this is a test file
 
 
 
-<snap>nexus3<\/snap>
+<snap>nexus3</snap>
 
 
 Wow The end
