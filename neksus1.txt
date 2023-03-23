@@ -5,4 +5,10 @@ Hello this is a test file
 <snap> this is to be removed </snap>
 
 
+<snapRepo>
+  <id>nexus</id>
+  <name>Snapshot release</name>
+</snapRepo>
+
+
 Wow The end
