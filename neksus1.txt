@@ -5,11 +5,11 @@ Hello this is a test file
 <snap> this is to be removed </snap>
 
 
-<snapRepo>
+<snapRepo>	
 <id>snapshot</id>
-<url>${snapurl}</url>
-<layout>default</layout>
-<uniqueVersion>false</uniqueVersion>
+	<url>${snapurl}</url>
+	<layout>default</layout>
+	<uniqueVersion>false</uniqueVersion>
 </snapRepo>
 
 
