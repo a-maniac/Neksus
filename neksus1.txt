@@ -1,0 +1,8 @@
+Hello this is a test file
+
+
+
+<snap> this is to be removed </snap>
+
+
+Wow The end
