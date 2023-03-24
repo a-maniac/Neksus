@@ -2,12 +2,14 @@ Hello this is a test file
 
 
 
-<snap> this is to be removed </snap>
+<snap>https://neksus.com</snap>
 
 
 <snapRepo>
-  <id>nexus</id>
-  <name>Snapshot release</name>
+	<id>snapshot</id>
+	<url>${snapurl}</url>
+	<layout>default</layout>
+	<uniqueVersion>false</uniqueVersion>
 </snapRepo>
 
 
